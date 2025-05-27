@@ -39,19 +39,19 @@ Publish the website in the given URL.
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>SURFACE AREA OF RIGHT CYLINDER</title>
-<h2 align="center">OVIYA P</h2>
-<h3 align="center">212223110033</h3>
+<h2 align="center">JOANN ELIZABETH</h2>
+<h3 align="center">212224040139</h3>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
     background-color: rgb(237, 65, 91);
 }
 .edge {
-    width: 100%; /* Set width to 100% */
+    width: 100%; 
     display: flex;
-    justify-content: center; /* Center the content horizontally */
-    align-items: center; /* Center the content vertically */
-    height: 100vh; /* Set height to 100% of the viewport height */
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
 }
 .box {
     border: Thick dashed rgb(5, 0, 1);
@@ -59,7 +59,7 @@ body {
     min-height: 300px;
     font-size: 20px;
     background-color: lemonchiffon;
-    padding: 20px; /* Add padding for better appearance */
+    padding: 20px; 
 }
 .formelt {
     color: black;
